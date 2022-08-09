@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane xmlns="http://javafx.com/javafx"
-            xmlns:fx="http://javafx.com/fxml"
-            fx:controller="$CONTROLLER_NAME$"
-            prefHeight="400.0" prefWidth="600.0" >
-
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.NoteModify">
+    <children>
+        <TextArea fx:id="notesModify" layoutX="98.0" layoutY="100.0" prefHeight="201.0" prefWidth="419.0" />
+        <TextField fx:id="modifyNoteId" editable="false" layoutX="98.0" layoutY="38.0" />
+        <Label layoutX="39.0" layoutY="43.0" text="Note ID" />
+        <Button id="otherButtons" layoutX="249.0" layoutY="337.0" mnemonicParsing="false" onAction="#modifySaveBtn" text="Save" />
+    </children>
 </AnchorPane>
