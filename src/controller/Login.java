@@ -80,7 +80,6 @@ public class Login implements Initializable {
         loginTitle.setText(langBundle.getString("SchedulingApplication"));
         loginButton.setText(langBundle.getString("Login"));
         cancelButton.setText(langBundle.getString("Cancel"));
-
         imView.setImage(
                 new Image("logo.png")
         );
