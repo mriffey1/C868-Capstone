@@ -6,6 +6,7 @@
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][website-shield]][website-url]
 
 </div>
 <h2 align="center">WGU C868 - Capstone Scheduling Application</h2>
@@ -95,6 +96,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/mriffey1/C195-Scheduling.svg?style=for-the-badge
+[website-shield]: https://img.shields.io/badge/Website-megan.codes-blue?style=for-the-badge
+[website-url]: https://megan.codes
 [contributors-url]: https://github.com/mriffey1/C195-Scheduling/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/mriffey1/C195-Scheduling.svg?style=for-the-badge
 [forks-url]: https://github.com/mriffey1/C195-Scheduling/network/members
