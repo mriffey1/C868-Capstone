@@ -10,7 +10,7 @@
 </div>
 <h2 align="center">WGU C868 - Capstone Scheduling Application</h2>
 
-  <p align="center">
+  <p>
     Standalone Scheduling Application with CRUD functionality created in Java for a factitious veterinary company to schedule, add notes, animals and view reports.  
 
 </div>
@@ -34,7 +34,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-</br>
 Access existing database and adding functionality for adding, updating, deleting appointments and customers. The database schema is no longer available as it lived on a virtual machine during my time with WGU.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
